@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gg07RlUVH0P6NWiARs5k1ghX3+DpPzEYfe3WUR4sFLFgaEEZsYIYQLvVawqXKIuPicKVY1P9H/c8F8w1zU7+8A==",
+  "success": true,
+  "projectFilePath": "E:\\ASP.NET\\Stock-Account-Management\\ConsoleApp1\\StockManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arun Hosur\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

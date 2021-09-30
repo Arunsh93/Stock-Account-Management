@@ -1,0 +1,16 @@
+E:\ASP.NET\Stock-Account-Management\ConsoleApp1\bin\Debug\netcoreapp3.1\StockManagement.exe
+E:\ASP.NET\Stock-Account-Management\ConsoleApp1\bin\Debug\netcoreapp3.1\StockManagement.deps.json
+E:\ASP.NET\Stock-Account-Management\ConsoleApp1\bin\Debug\netcoreapp3.1\StockManagement.runtimeconfig.json
+E:\ASP.NET\Stock-Account-Management\ConsoleApp1\bin\Debug\netcoreapp3.1\StockManagement.runtimeconfig.dev.json
+E:\ASP.NET\Stock-Account-Management\ConsoleApp1\bin\Debug\netcoreapp3.1\StockManagement.dll
+E:\ASP.NET\Stock-Account-Management\ConsoleApp1\bin\Debug\netcoreapp3.1\StockManagement.pdb
+E:\ASP.NET\Stock-Account-Management\ConsoleApp1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\ASP.NET\Stock-Account-Management\ConsoleApp1\obj\Debug\netcoreapp3.1\StockManagement.csproj.AssemblyReference.cache
+E:\ASP.NET\Stock-Account-Management\ConsoleApp1\obj\Debug\netcoreapp3.1\StockManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\Stock-Account-Management\ConsoleApp1\obj\Debug\netcoreapp3.1\StockManagement.AssemblyInfoInputs.cache
+E:\ASP.NET\Stock-Account-Management\ConsoleApp1\obj\Debug\netcoreapp3.1\StockManagement.AssemblyInfo.cs
+E:\ASP.NET\Stock-Account-Management\ConsoleApp1\obj\Debug\netcoreapp3.1\StockManagement.csproj.CoreCompileInputs.cache
+E:\ASP.NET\Stock-Account-Management\ConsoleApp1\obj\Debug\netcoreapp3.1\StockManagement.csproj.CopyComplete
+E:\ASP.NET\Stock-Account-Management\ConsoleApp1\obj\Debug\netcoreapp3.1\StockManagement.dll
+E:\ASP.NET\Stock-Account-Management\ConsoleApp1\obj\Debug\netcoreapp3.1\StockManagement.pdb
+E:\ASP.NET\Stock-Account-Management\ConsoleApp1\obj\Debug\netcoreapp3.1\StockManagement.genruntimeconfig.cache
